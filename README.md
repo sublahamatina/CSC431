@@ -1,2 +1,1 @@
-# CSC431
-CSC431 course project
+This project is for UM CSC 431 Introduction to Software Engineering.
